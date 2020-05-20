@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 #baseurl: "/Type-on-Strap"
-baseurl: "/"
+baseurl: "/Type-on-Strap"
 url: "https://sjoevik.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
