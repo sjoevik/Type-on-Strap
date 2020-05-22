@@ -1,8 +1,8 @@
 ---
 layout: search
-title: Search
+title: Sök
 permalink: /search/
-subtitle: "What are you looking for?"
+subtitle: "Sök på hemsidan"
 feature-img: "assets/img/pexels/search-map.jpeg"
 icon: "fa-search"
 ---
